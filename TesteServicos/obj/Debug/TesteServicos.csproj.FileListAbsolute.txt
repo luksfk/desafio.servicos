@@ -1,0 +1,423 @@
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\TesteServicos.dll.config
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\TesteServicos.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\TesteServicos.pdb
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\csc.exe
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\csc.exe.config
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\csc.rsp
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\csi.exe
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\csi.exe.config
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\csi.rsp
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\System.AppContext.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\System.Console.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\vbc.exe
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\vbc.exe.config
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\vbc.rsp
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Antlr3.Runtime.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\EntityFramework.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\EntityFramework.SqlServer.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Microsoft.Owin.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Microsoft.Owin.Security.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Newtonsoft.Json.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Owin.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\System.Web.Helpers.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\System.Web.Mvc.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\System.Web.Optimization.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\System.Web.Razor.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\System.Web.WebPages.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\WebGrease.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\System.Web.Helpers.xml
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\System.Web.Mvc.xml
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\System.Web.Optimization.xml
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\System.Web.Razor.xml
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\System.Web.WebPages.xml
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Newtonsoft.Json.xml
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Antlr3.Runtime.pdb
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\EntityFramework.xml
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\EntityFramework.SqlServer.xml
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Microsoft.Owin.xml
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Microsoft.Owin.Security.xml
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\pt-br\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\pt-br\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\pt-br\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\obj\Debug\TesteServicos.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\obj\Debug\TesteServicos.csproj.CopyComplete
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\obj\Debug\TesteServicos.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\obj\Debug\TesteServicos.pdb
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\AutoMapper.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\System.ValueTuple.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\AutoMapper.pdb
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\AutoMapper.xml
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\System.ValueTuple.xml
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\obj\Debug\TesteServicos.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\CommonServiceLocator.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Unity.Abstractions.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Unity.Configuration.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Unity.Container.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Unity.Interception.Configuration.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Unity.Interception.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Unity.Mvc5.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Unity.RegistrationByConvention.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Unity.ServiceLocation.dll
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\CommonServiceLocator.pdb
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Unity.Abstractions.pdb
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Unity.Configuration.pdb
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Unity.Container.pdb
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Unity.Interception.pdb
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Unity.Interception.Configuration.pdb
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Unity.RegistrationByConvention.pdb
+C:\Users\Lucas\source\repos\TesteServicos\TesteServicos\bin\Unity.ServiceLocation.pdb
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\TesteServicos.dll.config
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\TesteServicos.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\TesteServicos.pdb
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\csc.exe
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\csc.exe.config
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\csc.rsp
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\csi.exe
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\csi.exe.config
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\csi.rsp
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\System.AppContext.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\System.Console.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\System.IO.Compression.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\System.IO.Pipes.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\System.Security.Claims.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\System.ValueTuple.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\System.Xml.XPath.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\vbc.exe
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\vbc.exe.config
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\vbc.rsp
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\VBCSCompiler.exe
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Antlr3.Runtime.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\AutoMapper.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\CommonServiceLocator.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\EntityFramework.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\EntityFramework.SqlServer.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Microsoft.Owin.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Microsoft.Owin.Security.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Newtonsoft.Json.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Owin.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\System.ValueTuple.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\System.Web.Helpers.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\System.Web.Mvc.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\System.Web.Optimization.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\System.Web.Razor.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\System.Web.WebPages.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\System.Web.WebPages.Razor.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Unity.Abstractions.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Unity.Configuration.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Unity.Container.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Unity.Interception.Configuration.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Unity.Interception.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Unity.Mvc5.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Unity.RegistrationByConvention.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Unity.ServiceLocation.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\WebGrease.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\AutoMapper.pdb
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\AutoMapper.xml
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\CommonServiceLocator.pdb
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\System.ValueTuple.xml
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\System.Web.Helpers.xml
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\System.Web.Mvc.xml
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\System.Web.Razor.xml
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\System.Web.WebPages.xml
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\System.Web.WebPages.Razor.xml
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\System.Web.Optimization.xml
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Newtonsoft.Json.xml
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Unity.Abstractions.pdb
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Unity.Configuration.pdb
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Unity.Container.pdb
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Unity.Interception.pdb
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Unity.Interception.Configuration.pdb
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Unity.RegistrationByConvention.pdb
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Unity.ServiceLocation.pdb
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Antlr3.Runtime.pdb
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\EntityFramework.xml
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\EntityFramework.SqlServer.xml
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Microsoft.Owin.xml
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Microsoft.Owin.Security.xml
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\pt-br\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\pt-br\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\bin\pt-br\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\obj\Debug\TesteServicos.csprojAssemblyReference.cache
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\obj\Debug\TesteServicos.csproj.CoreCompileInputs.cache
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\obj\Debug\TesteServicos.csproj.CopyComplete
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\obj\Debug\TesteServicos.dll
+C:\Users\luksf\Downloads\TesteServicos (1)\TesteServicos\TesteServicos\obj\Debug\TesteServicos.pdb
+C:\Users\luksf\projetos\final\TesteServicos\bin\TesteServicos.dll.config
+C:\Users\luksf\projetos\final\TesteServicos\bin\TesteServicos.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\TesteServicos.pdb
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\csc.exe
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\csc.exe.config
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\csc.rsp
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\csi.exe
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\csi.exe.config
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\csi.rsp
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\System.AppContext.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\System.Console.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\System.IO.Compression.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\System.IO.Pipes.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\System.Security.Claims.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\System.ValueTuple.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\System.Xml.XPath.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\vbc.exe
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\vbc.exe.config
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\vbc.rsp
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\VBCSCompiler.exe
+C:\Users\luksf\projetos\final\TesteServicos\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\luksf\projetos\final\TesteServicos\bin\Antlr3.Runtime.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\AutoMapper.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\CommonServiceLocator.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\EntityFramework.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\EntityFramework.SqlServer.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\Microsoft.Owin.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\Microsoft.Owin.Security.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\Newtonsoft.Json.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\Owin.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\System.ValueTuple.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\System.Web.Helpers.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\System.Web.Mvc.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\System.Web.Optimization.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\System.Web.Razor.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\System.Web.WebPages.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\System.Web.WebPages.Razor.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\Unity.Abstractions.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\Unity.Configuration.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\Unity.Container.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\Unity.Interception.Configuration.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\Unity.Interception.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\Unity.Mvc5.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\Unity.RegistrationByConvention.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\Unity.ServiceLocation.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\WebGrease.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\AutoMapper.pdb
+C:\Users\luksf\projetos\final\TesteServicos\bin\AutoMapper.xml
+C:\Users\luksf\projetos\final\TesteServicos\bin\CommonServiceLocator.pdb
+C:\Users\luksf\projetos\final\TesteServicos\bin\System.ValueTuple.xml
+C:\Users\luksf\projetos\final\TesteServicos\bin\System.Web.Helpers.xml
+C:\Users\luksf\projetos\final\TesteServicos\bin\System.Web.Mvc.xml
+C:\Users\luksf\projetos\final\TesteServicos\bin\System.Web.Razor.xml
+C:\Users\luksf\projetos\final\TesteServicos\bin\System.Web.WebPages.xml
+C:\Users\luksf\projetos\final\TesteServicos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\luksf\projetos\final\TesteServicos\bin\System.Web.WebPages.Razor.xml
+C:\Users\luksf\projetos\final\TesteServicos\bin\System.Web.Optimization.xml
+C:\Users\luksf\projetos\final\TesteServicos\bin\Newtonsoft.Json.xml
+C:\Users\luksf\projetos\final\TesteServicos\bin\Unity.Abstractions.pdb
+C:\Users\luksf\projetos\final\TesteServicos\bin\Unity.Configuration.pdb
+C:\Users\luksf\projetos\final\TesteServicos\bin\Unity.Container.pdb
+C:\Users\luksf\projetos\final\TesteServicos\bin\Unity.Interception.pdb
+C:\Users\luksf\projetos\final\TesteServicos\bin\Unity.Interception.Configuration.pdb
+C:\Users\luksf\projetos\final\TesteServicos\bin\Unity.RegistrationByConvention.pdb
+C:\Users\luksf\projetos\final\TesteServicos\bin\Unity.ServiceLocation.pdb
+C:\Users\luksf\projetos\final\TesteServicos\bin\Antlr3.Runtime.pdb
+C:\Users\luksf\projetos\final\TesteServicos\bin\EntityFramework.xml
+C:\Users\luksf\projetos\final\TesteServicos\bin\EntityFramework.SqlServer.xml
+C:\Users\luksf\projetos\final\TesteServicos\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\luksf\projetos\final\TesteServicos\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\luksf\projetos\final\TesteServicos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\luksf\projetos\final\TesteServicos\bin\Microsoft.Owin.xml
+C:\Users\luksf\projetos\final\TesteServicos\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\luksf\projetos\final\TesteServicos\bin\Microsoft.Owin.Security.xml
+C:\Users\luksf\projetos\final\TesteServicos\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\luksf\projetos\final\TesteServicos\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\luksf\projetos\final\TesteServicos\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\luksf\projetos\final\TesteServicos\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\luksf\projetos\final\TesteServicos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\luksf\projetos\final\TesteServicos\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\luksf\projetos\final\TesteServicos\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\luksf\projetos\final\TesteServicos\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\luksf\projetos\final\TesteServicos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\luksf\projetos\final\TesteServicos\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\pt-br\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\pt-br\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\luksf\projetos\final\TesteServicos\bin\pt-br\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\luksf\projetos\final\TesteServicos\obj\Debug\TesteServicos.csprojAssemblyReference.cache
+C:\Users\luksf\projetos\final\TesteServicos\obj\Debug\TesteServicos.csproj.CoreCompileInputs.cache
+C:\Users\luksf\projetos\final\TesteServicos\obj\Debug\TesteServicos.csproj.CopyComplete
+C:\Users\luksf\projetos\final\TesteServicos\obj\Debug\TesteServicos.dll
+C:\Users\luksf\projetos\final\TesteServicos\obj\Debug\TesteServicos.pdb

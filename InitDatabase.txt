@@ -1,0 +1,71 @@
+GO
+CREATE TRIGGER [Trigger]
+	ON [dbo].[Fornecedors]
+	FOR INSERT
+	AS
+	BEGIN
+		SET NOCOUNT ON;
+		DECLARE @ID AS int;
+		select @ID = id from inserted;
+
+		insert into TipoServicoes values ('Pintura', @ID);
+		insert into TipoServicoes values ('Lavação', @ID);
+		
+		insert into Clientes values ('Cliente 1', 'Centro', 'Jaraguá do Sul', 'Santa Catarina', @ID);
+		insert into Clientes values ('Cliente 2', 'Ilha da Figueira', 'Jaraguá do Sul', 'Santa Catarina',@ID);
+		insert into Clientes values ('Cliente 3', 'Centro', 'Guaramirim', 'Santa Catarina',@ID);
+		insert into Clientes values ('Cliente 4', 'Cortiçeira', 'Guaramirim', 'Santa Catarina',@ID);		
+	END
+
+GO
+
+CREATE FUNCTION [dbo].[GastoClientesMes]()
+RETURNS TABLE AS RETURN
+(
+	select results.TotalServicos, results.Mes, results.Cliente from (
+select sum(valorServico) as TotalServicos, MONTH(Servicoes.DataAtendimento) as Mes, c.Nome as Cliente,
+RANK() over(partition by MONTH(Servicoes.DataAtendimento) order by sum(valorServico) desc) as rank
+from Servicoes
+join Clientes c on c.id = Servicoes.clienteid
+where year(servicoes.DataAtendimento) = year(GETDATE()) and MONTH(Servicoes.DataAtendimento) <= MONTH(getDate())
+group by ClienteId, c.Nome, MONTH(Servicoes.DataAtendimento)
+) as results where results.rank <= 3
+)
+
+GO
+CREATE FUNCTION [dbo].[MediaValorCobradoServicoFornecedor]()
+RETURNS TABLE AS RETURN
+(
+	select f.Nome as Fornecedor, ts.Descricao, avg(Servicoes.ValorServico) as Media
+from Servicoes
+join fornecedors f on f.id = servicoes.fornecedorid
+join TipoServicoes ts on ts.id = Servicoes.TipoServicoId
+group by Servicoes.FornecedorId, f.Nome, Servicoes.TipoServicoId, ts.Descricao
+)
+
+GO
+CREATE FUNCTION [dbo].[FornecedoresSemAtendimento]()
+RETURNS @returntable TABLE
+(
+	Mes int,
+	Fornecedor nvarchar(max)
+)
+AS
+BEGIN
+	declare @StartDT  datetime
+	set @StartDT = DATEADD(yy, DATEDIFF(yy, 0, GETDATE()), 0)	
+
+	while montH(@StartDT) <= month(getDate())
+	begin
+	INSERT @returntable
+		select montH(@StartDT) as Mes, Nome from Fornecedors where id not in (
+			select fornecedorid from Servicoes where MONTH(DataAtendimento) = MONTH(@StartDT)
+		)
+
+		SET @StartDT = DATEADD(MONTH,1,@StartDT)
+	end
+
+
+	RETURN
+END
+

@@ -1,0 +1,132 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<h2>Index</h2>
+<form class="form-inline">
+
+    <div class="form-group">
+        <label for="periodo">Período</label>
+        <input type="text" class="form-control" id="periodo" />
+    </div>
+
+    <button id="consultaBtn" class="btn">Consultar</button>
+</form>
+
+<br />
+
+<p>
+    <span data-toggle="collapse" href="#collapseFiltros" role="button" aria-expanded="false" aria-controls="collapseFiltros">
+        Filtros adicionais
+    </span>
+</p>
+
+<div class="collapse" id="collapseFiltros">
+    <div class="row">
+        <div class="col-sm-3">
+            <div class="form-group">
+                <label for="ClienteId">Cliente</label>
+                @Html.DropDownList("ClienteId", null, "Selecione", htmlAttributes: new { @class = "form-control" })
+            </div>
+        </div>
+
+        <div class="col-sm-3">
+            <div class="form-group">
+                <label for="estado">Estado</label>
+                <input type="text" class="form-control" id="estado" />
+            </div>
+        </div>
+
+        <div class="col-sm-3">
+            <div class="form-group">
+                <label for="cidade">Cidade</label>
+                <input type="text" class="form-control" id="cidade" />
+            </div>
+        </div>
+
+        <div class="col-sm-3">
+            <div class="form-group">
+                <label for="bairro">Bairro</label>
+                <input type="text" class="form-control" id="bairro" />
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-3">
+            <div class="form-group">
+                <label for="TipoServicoId">Tipo de Serviço</label>
+                @Html.DropDownList("TipoServicoId", null, "Selecione", htmlAttributes: new { @class = "form-control" })
+            </div>
+        </div>
+
+        <div class="col-sm-3">
+            <div class="form-group">
+                <label for="valorMinimo">Valor mínimo</label>
+                <input type="text" class="form-control" id="valorMinimo" />
+            </div>
+        </div>
+
+        <div class="col-sm-3">
+            <div class="form-group">
+                <label for="valorMaximo">Valor máximo</label>
+                <input type="text" class="form-control" id="valorMaximo" />
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="dataReport">
+</div>
+
+
+@section Scripts {
+
+    <script type="text/javascript">
+
+        function getDataReport() {
+            var dataInicial = $("#periodo").data('daterangepicker').startDate.format("YYYY-MM-DD");
+            var dataFinal = $("#periodo").data('daterangepicker').endDate.format("YYYY-MM-DD");
+            var clienteId = $("#ClienteId").val();
+            var estado = $("#estado").val();
+            var cidade = $("#cidade").val();
+            var bairro = $("#bairro").val();
+            var tipoServicoId = $("#TipoServicoId").val();
+            var valorMinimo = $("#valorMinimo").val();
+            var valorMaximo = $("#valorMaximo").val();
+            changeDataBody('Carregando...');
+            $.post("/Relatorios/Relatorio", { dataInicial, dataFinal, clienteId, estado, cidade, bairro, tipoServicoId, valorMinimo, valorMaximo })
+                .done(function (data) {
+                    $("#collapseFiltros").collapse('hide');
+                    changeDataBody(data);
+                })
+                .fail(function (error) {
+                    $('#dataReport').html(error);
+                })
+        }
+
+        function changeDataBody(msg) {
+            $('#dataReport').html(msg);
+        }
+
+        $(document).ready(function () {
+
+            $('#periodo').daterangepicker({
+                autoApply: true,
+                endDate: moment(),
+                startDate: moment().subtract(30, 'days'),
+                locale: {
+                    format: 'DD/MM/YYYY'
+                }
+            });            
+
+            $("#consultaBtn").click(function (event) {
+                event.preventDefault();
+                getDataReport();
+            })
+
+        });
+    </script>
+}

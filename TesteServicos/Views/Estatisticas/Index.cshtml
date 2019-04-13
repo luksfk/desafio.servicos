@@ -1,0 +1,77 @@
+﻿@{
+    ViewBag.Title = "Index";
+
+    <style>
+        .panel-body {
+            padding: unset !important;
+        }
+
+        .table {
+            margin-bottom: unset !important;
+        }
+    </style>
+}
+
+<h2>Estatísticas</h2>
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h3 class="panel-title">3 clientes que mais gastaram em serviços por mês no ano</h3>
+    </div>
+    <div class="panel-body">
+        <div id="gastoClientes">
+        </div>
+    </div>
+</div>
+
+
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h3 class="panel-title">Média de valor cobrado por fornecedor e tipo de serviço</h3>
+    </div>
+    <div class="panel-body">
+        <div id="mediaValorServico">
+        </div>
+    </div>
+</div>
+
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h3 class="panel-title">Fornecedores sem prestar atendimento por mês no ano atual </h3>
+    </div>
+    <div class="panel-body">
+        <div id="fornecedoresSemAtendimento">
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+@section Scripts {
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            $.get("/Estatisticas/GastoClientesMes")
+                .done(function (result) {
+                    $("#gastoClientes").html(result);
+                })
+
+            $.get("/Estatisticas/MediaValorCobradoServicoFornecedor")
+                .done(function (result) {
+                    $("#mediaValorServico").html(result);
+                })
+
+            $.get("/Estatisticas/FornecedoresSemAtendimento")
+                .done(function (result) {
+                    $("#fornecedoresSemAtendimento").html(result);
+                })
+        })
+
+    </script>
+}

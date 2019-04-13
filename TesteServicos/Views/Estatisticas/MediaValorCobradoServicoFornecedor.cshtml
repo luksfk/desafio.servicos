@@ -1,0 +1,24 @@
+﻿@model IEnumerable<TesteServicos.Models.Generic.MediaValorCobradoServicoFornecedor>
+
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Fornecedor</th>
+            <th>Serviço</th>
+            <th>Valor</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Fornecedor</td>
+                <td>@item.Descricao</td>
+                <td>@item.Media.GetValueOrDefault().ToString("C")</td>
+            </tr>
+        }
+
+    </tbody>
+</table>

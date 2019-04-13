@@ -1,0 +1,28 @@
+﻿@model IEnumerable<TesteServicos.Models.Generic.FornecedoresSemAtendimento>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Mês</th>
+            <th>Fornecedor</th>            
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.GroupBy(t => t.Mes).OrderBy(t => t.Key))
+        {
+            <tr>
+                <td class="rowTitle" rowspan="@(item.Count() + 1)">@item.ToList().FirstOrDefault().NomeMes.ToUpper()</td>
+            </tr>
+
+            foreach (var data in item.ToList())
+            {
+                <tr>                    
+                    <td>@data.Fornecedor</td>
+                </tr>
+
+            }
+
+        }
+
+    </tbody>
+</table>

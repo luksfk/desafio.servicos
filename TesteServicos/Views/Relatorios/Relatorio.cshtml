@@ -1,0 +1,39 @@
+﻿@model IEnumerable<TesteServicos.ViewModels.ServicoViewModel>
+
+@if (Model.Any())
+{
+<div class="table-responsive">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Cliente</th>
+                <th>Bairro</th>
+                <th>Cidade</th>
+                <th>Estado</th>
+                <th>Tipo de Serviço</th>
+                <th>Valor</th>
+                <th>Data atendimento</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Cliente.Nome</td>
+                    <td>@item.Cliente.Bairro</td>
+                    <td>@item.Cliente.Cidade</td>
+                    <td>@item.Cliente.Estado</td>
+                    <td>@item.TipoServico.Descricao</td>
+                    <td>@item.ValorServico.ToString("C")</td>
+                    <td>@item.DataAtendimento.ToString("dd/MM/yyyy")</td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+</div>
+}
+else
+{
+    <p>Nenhum resultado encontrado com os filtros selecionados!</p>
+}
